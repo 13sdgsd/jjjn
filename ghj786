@@ -1,0 +1,201 @@
+
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
+    foreach (var task in tasks)
+    {
+        // 重建内存队列
+        var items = await _dbService.GetItemsByTaskAsync(task.Id);
+        lock (_syncLock)
+        {
+            foreach (var item in items.Where(i => i.Status != DownloadStatus.Completed))
+            {
+                _downloadQueue.Enqueue(item.ToDownloadFileItem());
+            }
